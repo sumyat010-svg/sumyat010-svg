@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Collaborative, Active learing**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="flex">
 <a href="https://fb.com/https://www.facebook.com/share/1et4ivtfya/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1et4ivtfya/?mibextid=wwxifr" height="30" width="40" /></a>
 </p>
 
