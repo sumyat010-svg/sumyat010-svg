@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Collaborative, Active learing**
 
 <p align="center">
-  <img src="https://github.com/sumyat010-svg/sumyat010-svg/blob/main/photo_2026-04-19_23-30-45.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/sumyat010-svg/sumyat010-svg/blob/main/photo_2026-04-19_23-30-45.jpg" width="50%" >
 </p>
 
 <h3 align="left">Connect with me:</h3>
